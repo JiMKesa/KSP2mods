@@ -5,7 +5,7 @@
   "description": "Solar Parts from Kesa Agency.",
   "source": "https://github.com/JiMKesa/kesa_solar",
   "version": "1.0.1",
-  "version_check": "https://raw.githubusercontent.com/JiMKesa/KSP2mods/master/swinfo.json",
+  "version_check": "https://raw.githubusercontent.com/JiMKesa/KSP2mods/main/kesa_solar/swinfo.json",
   "dependencies": [
     {
       "id":  "com.github.x606.spacewarp",
