@@ -1,0 +1,22 @@
+{
+  "mod_id": "kesa_solar",
+  "author": "JiMKesa",
+  "name": "Kesa Solar",
+  "description": "Solar Parts from Kesa Agency.",
+  "source": "https://github.com/JiMKesa/kesa_solar",
+  "version": "1.0.1",
+  "version_check": "https://raw.githubusercontent.com/JiMKesa/KSP2mods/master/swinfo.json",
+  "dependencies": [
+    {
+      "id":  "com.github.x606.spacewarp",
+      "version": {
+        "min": "1.4.0",
+        "max": "*"
+      }
+    }
+  ],
+  "ksp2_version": {
+    "min": "0.1.2",
+    "max": "*"
+  }
+}
