@@ -1,0 +1,22 @@
+{
+  "mod_id": "kesa",
+  "author": "JiMKesa",
+  "name": "Kesa",
+  "description": "Parts from Kesa Agency.",
+  "source": "https://github.com/JiMKesa/kesa",
+  "version": "1.1.11",
+  "version_check": "https://raw.githubusercontent.com/JiMKesa/kesa/master/swinfo.json",
+  "dependencies": [
+    {
+      "id":  "com.github.x606.spacewarp",
+      "version": {
+        "min": "1.4.0",
+        "max": "*"
+      }
+    }
+  ],
+  "ksp2_version": {
+    "min": "0.1.2",
+    "max": "*"
+  }
+}
