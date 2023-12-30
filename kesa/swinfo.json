@@ -5,24 +5,31 @@
   "name": "Kesa",
   "description": "Various parts for probes, rockets, ... from Kesa Agency.",
   "source": "https://github.com/JiMKesa/kesa",
-  "version": "1.1.24",
+  "version": "1.1.25",
   "version_check": "https://raw.githubusercontent.com/JiMKesa/KSP2mods/main/kesa/swinfo.json",
   "ksp2_version": {
-    "min": "0.1.5",
+    "min": "0.2.0",
     "max": "*"
   },
   "dependencies": [
     {
       "id":  "com.github.x606.spacewarp",
       "version": {
-        "min": "1.5.4",
+        "min": "1.7.0",
+        "max": "*"
+      }
+    },
+	{
+      "id":  "PatchManager",
+      "version": {
+        "min": "0.7.1",
         "max": "*"
       }
     },
     {
       "id": "lfo",
       "version": {
-        "min": "0.10.0",
+        "min": "1.0.0",
         "max": "*"
       }
     }
